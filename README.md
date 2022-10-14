@@ -2,6 +2,18 @@
 
 A new Flutter project.
 
+App UI
+Splash Screen
+Login Form
+Registration Form
+Profile Page
+Forgot Password
+OTP Verification Page
+Resources
+Website: https://androidmastertopic.blogspot.com/
+Youtube: https://www.youtube.com/channel/UCZGkegk6IACFokqgiMRoWCA
+Please give star our GitHub projects 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
